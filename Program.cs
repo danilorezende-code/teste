@@ -8,6 +8,7 @@ namespace ws_vs_code
         {
             //Teste do GitHub
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Teste de segundo commit!");
         }
     }
 }
