@@ -1,0 +1,13 @@
+/home/danilo/Projetos/ws-vs-code/bin/Debug/netcoreapp3.1/ws-vs-code
+/home/danilo/Projetos/ws-vs-code/bin/Debug/netcoreapp3.1/ws-vs-code.deps.json
+/home/danilo/Projetos/ws-vs-code/bin/Debug/netcoreapp3.1/ws-vs-code.runtimeconfig.json
+/home/danilo/Projetos/ws-vs-code/bin/Debug/netcoreapp3.1/ws-vs-code.runtimeconfig.dev.json
+/home/danilo/Projetos/ws-vs-code/bin/Debug/netcoreapp3.1/ws-vs-code.dll
+/home/danilo/Projetos/ws-vs-code/bin/Debug/netcoreapp3.1/ws-vs-code.pdb
+/home/danilo/Projetos/ws-vs-code/obj/Debug/netcoreapp3.1/ws-vs-code.csprojAssemblyReference.cache
+/home/danilo/Projetos/ws-vs-code/obj/Debug/netcoreapp3.1/ws-vs-code.csproj.CoreCompileInputs.cache
+/home/danilo/Projetos/ws-vs-code/obj/Debug/netcoreapp3.1/ws-vs-code.AssemblyInfoInputs.cache
+/home/danilo/Projetos/ws-vs-code/obj/Debug/netcoreapp3.1/ws-vs-code.AssemblyInfo.cs
+/home/danilo/Projetos/ws-vs-code/obj/Debug/netcoreapp3.1/ws-vs-code.dll
+/home/danilo/Projetos/ws-vs-code/obj/Debug/netcoreapp3.1/ws-vs-code.pdb
+/home/danilo/Projetos/ws-vs-code/obj/Debug/netcoreapp3.1/ws-vs-code.genruntimeconfig.cache

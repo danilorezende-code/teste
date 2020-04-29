@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ws-vs-code/1.0.0": {
+        "runtime": {
+          "ws-vs-code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ws-vs-code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
